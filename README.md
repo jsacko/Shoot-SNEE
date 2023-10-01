@@ -1,5 +1,6 @@
 # Shoot-SNEE
-Bienvenue sur le repository de Shoot ! 
+Bienvenue sur le repository de Shoot ! ![sacko_julien](https://github.com/jsacko/Shoot-SNEE/assets/63580474/2431c70a-4637-43d6-b78b-aee63ea95cfb)
+
 Ce repository permet de présenter mon avancée du site web et de l'application mobile pour ma candidature au Statut National Etudiant Entrepreneur.
 
 Voici le lien de mon site web avancée jusqu'à présent:
