@@ -6,7 +6,9 @@ Voici le lien de mon site web avancée jusqu'à présent:
 [https://6517595d99e6aa3cde412feb--shoot-pfe.netlify.app](https://6518e3678339e80cdb2e3586--shoot-pfe.netlify.app)
 
 Voici les identifiants pour se connecter au site web:
+
 Email: snee@mailna.co
+
 Password: jurysnee2023
 
 Vous pourrez tester la Map à spot ainsi que la réservation d'un photographe planifié.
