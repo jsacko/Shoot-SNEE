@@ -1,16 +1,38 @@
-# Shoot-SNEE
-Bienvenue sur le repository de Shoot ! ![sacko_julien](https://github.com/jsacko/Shoot-SNEE/assets/63580474/2431c70a-4637-43d6-b78b-aee63ea95cfb)
+# Présentation de ma Candidature - Statut National Étudiant Entrepreneur (SNEE)
 
-Ce repository permet de présenter mon avancée du site web et de l'application mobile pour ma candidature au Statut National Etudiant Entrepreneur.
+<img src="https://bqomuhjgoihubwcaojgb.supabase.co/storage/v1/object/public/avatars/sacko_julien.jpg" width="200" alt="photo de moi">
 
-Voici le lien de mon site web avancée jusqu'à présent:
-[https://6517595d99e6aa3cde412feb--shoot-pfe.netlify.app](https://6518e3678339e80cdb2e3586--shoot-pfe.netlify.app)
 
-Voici les identifiants pour se connecter au site web: <br/>
-Email: snee@mailna.co <br/>
-Password: jurysnee2023
 
-Vous pourrez tester la Map à spot ainsi que la réservation d'un photographe planifié.
-La réservation d'un photographe disponible en live est disponible uniquement sur mobile (localisation pas assez efficace via web et usage moins courant depuis un ordinateur)
+Bienvenue sur mon repository GitHub dédié à ma candidature pour le Statut National Étudiant Entrepreneur (SNEE). Je suis actuellement étudiant en 5ème année d'études en ingénierie informatique en alternance, et je candidate avec mon projet "Shoot!".
 
-Voici la démo mobile de l'application, fonctionnelle sur iOS et android.
+## Aperçu
+
+"Shoot!" est une application mobile Android/iOS et un site web conçus pour offrir une expérience interactive aux utilisateurs en mettant en relation des amateurs de photographie, des photographes professionnels, et des lieux propices à la photographie. L'application peut élargir ses fonctionnalités pour inclure les services vidéo que les photographes peuvent offrir.
+
+
+## Contenu
+
+- [Site Web "Shoot!"](https://651a08a54c5cd724fd12551a--shoot-snee.netlify.app/) 
+
+- [Démo Vidéo de l'Application Mobile](https://drive.google.com/file/d/1OcbRrf0SnHaRynevYLW8gD6etEdhcwIR/view?usp=sharing)
+#### Identifiants de Test pour Accéder au Site Web
+- **Adresse e-mail:** snee@mailna.co
+- **Mot de passe :** jurysnee2023
+
+## Objectifs
+
+- Finaliser le développement de l'application mobile et du site web.
+- Optimiser et réaliser des tests de performances.
+- Lancer une phase de bêta-test avec des utilisateurs réels.
+- Rechercher des financements et un accompagnement pour la croissance du projet.
+
+## Motivation
+
+Ce projet est né de ma passion pour la photographie et de ma volonté de créer une solution innovante pour les amateurs et les photographes. Il vise à démocratiser l'accès à des séances photo de qualité tout en offrant aux photographes une opportunité de monétiser leurs compétences. L'application peut étendre l'usage aux services vidéos que les photographes peuvent fournir.
+
+## Contact
+
+Pour toute question ou suggestion, n'hésitez pas à me joindre à l'adresse suivante : [sacko_91@outlook.fr](mailto:sacko_91@outlook.fr).
+
+Merci de votre intérêt pour "Shoot!" et de votre temps accordé à l'étude de ma candidature pour le Statut National Étudiant Entrepreneur (SNEE).
