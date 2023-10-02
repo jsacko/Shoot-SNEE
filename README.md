@@ -29,7 +29,7 @@ Bienvenue sur mon repository GitHub dédié à ma candidature pour le Statut Nat
 
 ## Motivation
 
-Ce projet est né de ma passion pour la photographie et de ma volonté de créer une solution innovante pour les amateurs et les photographes. Il vise à démocratiser l'accès à des séances photo de qualité tout en offrant aux photographes une opportunité de monétiser leurs compétences. L'application peut étendre l'usage aux services vidéos que les photographes peuvent fournir.
+Ce projet est né de ma passion pour la photographie et de ma volonté de créer une solution innovante pour les amateurs et les photographes. Il vise à démocratiser l'accès à des séances photo de qualité tout en offrant aux photographes une opportunité de monétiser leurs compétences.
 
 ## Contact
 
