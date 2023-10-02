@@ -1,4 +1,4 @@
-# Présentation de ma Candidature - Statut National Étudiant Entrepreneur (SNEE)
+# Présentation de ma candidature - Statut National Étudiant Entrepreneur (SNEE)
 
 <img src="https://bqomuhjgoihubwcaojgb.supabase.co/storage/v1/object/public/avatars/sacko_julien.jpg" width="200" alt="photo de moi">
 
